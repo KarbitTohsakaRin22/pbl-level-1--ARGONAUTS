@@ -11,17 +11,17 @@
 
 ## 1. Profil Organisasi / Unit Usaha
 
-- **Nama unit usaha**: [nama]
-- **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
-- **Lokasi**: [lokasi]
-- **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- **Narahubung / pemilik**: [nama, jabatan, kontak]
+- **Nama unit usaha**: [SD Muhammadiyah Nitikan]
+- **Jenis usaha / layanan**: [Unit Perpustakaan Sekolah]
+- **Lokasi**: [Jalan Kranon Nitikan No.UH 6, RT.45/RW.11, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162]
+- **Deskripsi singkat operasional**: [Menyediakan, Menyimpan buku kebutuhan sekolah,Siswa/i SD Muhammadiyah Nitikan, jam operasional 07:00 - 14:00]
+- **Narahubung / pemilik**: [Yunistia Sekar Sarworini, S.I.P. Pustakawan]
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [pernyataan masalah yang jelas — fokus pada MASALAH, bukan solusi]
-- **Pihak yang terdampak**: [siapa terkena dampak dan bagaimana]
-- **Frekuensi / keparahan**: [kapan terjadi, seberapa sering, seberapa mengganggu]
+- **Masalah utama**: [Kurangnya Tenaga Kerja, dan siswa/i yang tidak kondusif selama/setelah membaca]
+- **Pihak yang terdampak**: [Pengurus Perpustakaan. Guru-guru kewalahan dan perpustakaan yang berantakan]
+- **Frekuensi / keparahan**: [Jam istirahat dan waktu membawa siswa, setiap kali ada sesi membaca siswa, tidak terlalu mengganggu]
 
 ## 3. Batasan Sistem (Scope)
 
