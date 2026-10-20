@@ -4,19 +4,21 @@
 
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Nama 1] | [NIM] | Discover, Build |
-| [Nama 2] | [NIM] | Frame, Test |
-| [Nama 3] | [NIM] | Define, Communicate |
-| [Nama 4] | [NIM] | Design, Reflect |
+| [Yudo Rahman] | [2600016021] | Discover, Communicate |
+| [Dafa Almer] | [2600016022] | Frame |
+| [Ale Gunner Saprudin] | [2600016024] | Define, Reflect |
+| [Raffi Adien Saputra] | [2600016038] | Design, Build |
+| [Danis AL-Faiz] | [2600016040] | Build |
+
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [contoh: Kantin Kampus "Makmur"]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Nama Unit Usaha**: [SD Muhammadiyah Nitikan]
+- **Lokasi**: [Jalan Kranon Nitikan No.UH 6, RT.45/RW.11, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162]
+- **Pengurus**: [Yunistia Sekar Sarworini, S.I.P.]
+- **Jenis Usaha**: [Perpustakaan Sekolah]
 
 ## Driving Question
 
