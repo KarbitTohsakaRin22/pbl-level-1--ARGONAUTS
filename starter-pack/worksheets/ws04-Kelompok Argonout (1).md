@@ -98,10 +98,10 @@ Tentukan target kuantitatif perbaikan yang ingin dicapai melalui solusi sistem i
 
 ### **B. Tanda Tangan Pengesahan Phase Lead 2**
 
-Disusun oleh Phase Lead 2 (Frame): \[ Nama Mahasiswa B — NIM \]
+Disusun oleh Phase Lead 2 (Frame): \[ Yudo Rahman Badrakusuma — 2600016021 \]
 
 ```
-Tanggal Penyusunan: [ Tanggal ]
+Tanggal Penyusunan: [ 23 Oktober 2026 ]
 Tanda Tangan Phase Lead 2: ____________________
 Diverifikasi oleh Dosen Pengampu / Coach:
 Tanggal: [ Tanggal ] | Status Checkpoint: [ APPROVED / REVISION NEEDED ]
