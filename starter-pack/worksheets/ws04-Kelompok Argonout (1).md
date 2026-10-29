@@ -13,7 +13,7 @@
 | **Elemen Informasi**          | **Rincian Identitas Kelompok & Mitra**     |
 | ----------------------------- | ------------------------------------------ |
 | **Nama Kelompok / Kelas**     | \[ Argonaut / A \]                         |
-| **Phase Lead 2 (Frame - M2)** | \[ Yudo Rahman Badrakusuma — 2600016021 \] |
+| **Phase Lead 2 (Frame - M2)** | \[ Daffa Almer Dzaky — 2600016022 \] |
 | **Nama UMKM Mitra Lapangan**  | \[ Perpustakaan Sd Muhammadiyah Nitikan \] |
 | **Pemilik / Kontak Mitra**    | \[ Yunistia Sekar Sarworini, S.I.P \]      |
 
@@ -98,7 +98,7 @@ Tentukan target kuantitatif perbaikan yang ingin dicapai melalui solusi sistem i
 
 ### **B. Tanda Tangan Pengesahan Phase Lead 2**
 
-Disusun oleh Phase Lead 2 (Frame): \[ Yudo Rahman Badrakusuma — 2600016021 \]
+Disusun oleh Phase Lead 2 (Frame): \[ Daffa Almer Dzaky — 2600016022 \]
 
 ```
 Tanggal Penyusunan: [ 23 Oktober 2026 ]
