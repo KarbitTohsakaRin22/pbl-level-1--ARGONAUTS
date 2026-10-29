@@ -97,11 +97,11 @@ Dengan ini, pemilik / manajer UMKM mitra menyatakan setuju atas rumusan kebutuha
 
 - **Nama Pemilik / Pengelola** : Yunistia Sekar Sarworini, S.I.P. 
 
-- **Tanggal Persetujuan** : 
+- **Tanggal Persetujuan** : 16/10/2026
 
 **Tanda Tangan Persetujuan Mitra** : 
 
-_(Cap / Tanda Tangan Pemilik UMKM Mitra)_ 
+_(![alt text](<WhatsApp Image 2026-10-29 at 13.13.52.jpeg>))_ 
 
 ### **6. Verifikasi Integritas AI (TPL-07) & Pengesahan** 
 

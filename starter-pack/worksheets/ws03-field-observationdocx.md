@@ -40,7 +40,7 @@ Keterkaitan Deliverable: Masukan Data Empiris & Bukti Lapangan untuk Deliverable
 2. Protokol Etika & Komitmen Kerahasiaan Data
 Seluruh anggota tim wajib memahami, mendiskusikan, dan menyetujui 4 pilar etika observasi
 lapangan sebelum melakukan kunjungan:
-   1.​ Izin Resmi & Transparansi (Informed Consent): Selalu meminta izin lisan/tertulis
+   1.​ Izin Resmi & Transparansi (Informed Consent): Selalu meminta izin lisan/tertulis
        secara sopan kepada pemilik usaha sebelum mengambil foto dokumen transaksi,
        merekam wawancara, atau mencatat data operasional.
    2.​ Perlindungan Data Sensitif (Data Privacy): Dilarang keras menyebarluaskan data
@@ -81,7 +81,7 @@ media pencatatan data, bottlenecks operasional, dan harapan perbaikan mitra.
         Pencatatan                                     perpustakaan       Software/Data
         Data                                                              Resources saat
                                                                           ini.
-No   Kategori          Rumusan Pertanyaan          Target         Tujuan
+No   Kategori          Rumusan Pertanyaan          Target         Tujuan
      Pertanyaan        Terarah                     Responden      Informasi yang
                                                                   Digali
 
@@ -125,7 +125,7 @@ media pencatatan data, bottlenecks operasional, dan harapan perbaikan mitra.
                        Buku masuk 8
                        Kembali 5
                        Stock akhir 427
-  No    Kategori           Rumusan Pertanyaan            Target             Tujuan
+  No    Kategori           Rumusan Pertanyaan            Target             Tujuan
         Pertanyaan         Terarah                       Responden          Informasi yang
                                                                             Digali
 
@@ -164,7 +164,7 @@ A. Pemetaan Alur Transaksi As-Is (Kronologis Kronik)
    ●​ Langkah 2 (Penyerahan/Pengambilan Buku): [ Catat alur penyerahan buku ke siswa ]
    ●​ Langkah 3 (Pencatatan Stok & Rekap): [ Di catan dalam buku besar dan di komputer
       menggunakan bantuan aplikasi ibra]
-B. Tabel Pengumpulan Data Kuantitatif Sederhana (Evidence)
+B. Tabel Pengumpulan Data Kuantitatif Sederhana (Evidence)
 Indikator Pengukuran                Angka Baseline Hasil        Satuan / Keterangan
                                         Observasi
 
@@ -209,7 +209,7 @@ Tanggal Observasi: [ 21 Oktober ]
 2. Anggota Tim 1              :
 Ale Gunner Saprudin
  ____________________ ( Tanda Tangan )
-3. Anggota Tim 2           : Raffi Adien Saputra
+3. Anggota Tim 2           : Raffi Adien Saputra
  ____________________ ( Tanda Tangan )
 4. Anggota Tim 3           : Danis Al-Faiz
  ____________________ ( Tanda Tangan )
@@ -221,4 +221,3 @@ Ale Gunner Saprudin
 Diverifikasi oleh Dosen/Coach:
 Tanggal: [ Tanggal ] | Status: [ Approved / Revision Needed ]
 Catatan Dosen: __________________________________________________
-
