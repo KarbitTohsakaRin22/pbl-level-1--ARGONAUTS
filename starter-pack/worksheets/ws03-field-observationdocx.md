@@ -205,16 +205,16 @@ Tanggal Observasi: [ 21 Oktober ]
 
 
 1. Phase Lead 2 (Mahasiswa B): Dafa Almer
- ____________________ ( Tanda Tangan )
+ ![alt text](<WhatsApp Image 2026-10-29 at 13.31.44 (1).jpeg>)( Tanda Tangan )
 2. Anggota Tim 1              :
 Ale Gunner Saprudin
- ____________________ ( Tanda Tangan )
+ ![alt text](<WhatsApp Image 2026-10-29 at 13.31.44 (3).jpeg>) ( Tanda Tangan )
 3. Anggota Tim 2           : Raffi Adien Saputra
- ____________________ ( Tanda Tangan )
+ ![alt text](<WhatsApp Image 2026-10-29 at 13.31.45.jpeg>) ( Tanda Tangan )
 4. Anggota Tim 3           : Danis Al-Faiz
- ____________________ ( Tanda Tangan )
+ ![alt text](<WhatsApp Image 2026-10-29 at 13.31.44 (2).jpeg>) ( Tanda Tangan )
 4. Anggota Tim 4           : Yudo Rahman
- ____________________ ( Tanda Tangan )
+ ![alt text](<WhatsApp Image 2026-10-29 at 13.31.44.jpeg>) ( Tanda Tangan )
 
 
 
