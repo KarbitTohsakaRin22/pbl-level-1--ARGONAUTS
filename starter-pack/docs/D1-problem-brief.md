@@ -61,14 +61,21 @@
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
-- Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+- Kebutuhan inti yang akan dijawab prototipe: [
+  
+  1. Mengatur kunjungan anak saat jam transit pulang, supaya tidak masuk bersamaan dalam jumlah besar.
+  2. Membedakan anak yang datang untuk membaca atau meminjam dari anak yang hanya menunggu, sehingga fungsi perpustakaan sebagai tempat membaca tetap terjaga.
+  3. Meringankan pengawasan 3 staf saat jam padat, dengan alur yang jelas dan tidak perlu menjaga anak satu per satu.
+  4. Memanfaatkan aplikasi Ibra dan alur kerja yang sudah ada, bukan membuat sistem baru dari nol.
+  5. Mencatat data kunjungan (jumlah anak per hari, jam paling ramai, lama anak tinggal) sebagai dasar evaluasi dan perbaikan berikutnya.
+]
 
 ## 6. Daftar Rujukan / Bukti
 
-- [Observasi lapangan tanggal ...]
-- [Wawancara pemilik tanggal ...]
-- [Dokumen pendukung lainnya]
+- [Observasi lapangan tanggal 21,23,29]
+- [Wawancara pemilik tanggal 23,29]
+- [Dokumen pendukung lainnya]![alt text](<anak membaca.jpeg>)
+![alt text](<anak membaca 2.jpeg>)
 
----
 
 **Status**: ⬜ Draf → ⬜ Review Tim → ⬜ Validasi Pemilik → ⬜ Final (Gate 1)
