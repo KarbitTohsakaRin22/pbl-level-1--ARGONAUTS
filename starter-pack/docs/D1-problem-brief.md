@@ -55,9 +55,9 @@
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
-| [tambah baris jika perlu] | | | |
+| [waktu layanan rata-rata] | [30 detik - 1 menit] | [wawancara] | [21/10] |
+| [jumlah peminjaman buku per hari] | [3-5] | [wawancara] | [23/10] |
+| [jumlah staff aktif] | [3 orang] | [wawancara] | [21/10] |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
